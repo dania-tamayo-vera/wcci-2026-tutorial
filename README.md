@@ -22,8 +22,12 @@ By the end of the tutorial, participants will have:
 
 # Presenters
 
+<img src="assets/dania.JPG" alt="Dania Tamayo-Vera" width="180">
+
 Dr. Dania Tamayo-Vera, University of Prince Edward Island, Canada  
 Assistant Professor and researcher in optimization-aware explainable AI. Her work integrates trust metrics into evolutionary and AutoML systems, bridging optimization theory with model interpretability. She has over five years of industry experience in applied machine learning and control systems and has co-authored several papers in optimization and evolutionary computation.
+
+<img src="assets/antonio.jpg" alt="Antonio Bolufe-Röhler" width="180">
 
 Dr. Antonio Bolufe-Röhler, University of Prince Edward Island, Canada  
 Associate Professor specializing in evolutionary computation, metaheuristics, and hybrid optimization. His research focuses on adaptive algorithms, search analysis, and multi-objective optimization. He has authored numerous IEEE publications and serves as an active member of the Computational Intelligence Society, contributing to the advancement of experimental evolutionary algorithms.
