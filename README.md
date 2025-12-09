@@ -1,3 +1,5 @@
+## Optimization-Aware Interpretability: Hands-On Methods for Explainable Automated Machine Learning Systems
+
 # Abstract
 
 Explainable Artificial Intelligence (XAI) has become a central challenge in modern machine learning, as AI systems are increasingly deployed in domains where interpretability and trust are essential. Yet most learning pipelines, including those in automated machine learning (AutoML), optimize only for predictive performance, leaving explanation quality and stability as afterthoughts. Recent work in evolutionary computation and XAI has identified the need for optimization frameworks that explicitly account for interpretability and transparency.
